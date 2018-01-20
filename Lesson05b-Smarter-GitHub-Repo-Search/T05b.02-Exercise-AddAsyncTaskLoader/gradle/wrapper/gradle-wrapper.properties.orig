@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+#Sun Nov 19 11:55:19 CET 2017
+=======
+#Mon Nov 20 11:29:21 CET 2017
+>>>>>>> origin/student
+distributionBase=GRADLE_USER_HOME
+distributionPath=wrapper/dists
+zipStoreBase=GRADLE_USER_HOME
+zipStorePath=wrapper/dists
+distributionUrl=https\://services.gradle.org/distributions/gradle-4.1-all.zip
